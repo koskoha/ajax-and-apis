@@ -1,0 +1,18 @@
+#queryForm{
+	float:right;
+}
+
+button{
+	background-color: #a7e8c3;
+	margin: 10px;
+	color: blue;
+}
+
+img{
+	margin: 5px 20px 20px 0px;
+	max-width: 300px;
+}
+
+.block{
+	display: inline-block;
+}
